@@ -1,0 +1,8 @@
+body { font-family: Arial; background: #f2f2f2; margin: 0; padding: 15px; }
+.container { max-width: 500px; margin: auto; }
+h1 { text-align: center; color: #0a7a6b; }
+.card { background: white; padding: 15px; border-radius: 10px; margin-bottom: 15px; }
+.dashboard { background: #0a7a6b; color: white; padding: 15px; border-radius: 10px; margin-bottom: 15px; }
+input, select, button { width: 100%; padding: 10px; margin: 6px 0; border-radius: 6px; border: 1px solid #ccc; }
+button { background: #c2185b; color: white; border: none; font-weight: bold; cursor: pointer; }
+#message { font-weight: bold; background: white; color: black; padding: 8px; border-radius: 6px; }
